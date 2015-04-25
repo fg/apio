@@ -1,0 +1,17 @@
+{
+    "name": "apiophp/apio",
+    "homepage": "https://github.com/apiophp",
+    "description": "Apio , consolidates all  API requests",
+    "keywords": ["Apio","Apiophp","rest Api","api","all in one api"], 
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Deniz Gokdunek",
+            "homepage": "http://github.com/dzgok"
+        }
+    ],
+     "require": {
+        "php": ">=5.4.0",
+        "guzzle/guzzle": "5.2.0"
+    }
+}
