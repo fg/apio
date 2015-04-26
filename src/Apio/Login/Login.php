@@ -36,5 +36,5 @@ class  Login implements LoginInterface{
 
     public function setUrl($url) {
 	
-    }     
+    }        const VERSION = '5.2.0';
 }
