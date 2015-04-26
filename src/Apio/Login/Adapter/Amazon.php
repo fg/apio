@@ -1,6 +1,11 @@
 <?php
-class Amazon {
+namespace Apio\Login\Adapter;
 
+use Apio\Login\Adapter\LoginAdapterAbstract;
+
+class Amazon  extends LoginAdapterAbstract{
+  
+   
 }
 
 ?>

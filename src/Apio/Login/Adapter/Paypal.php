@@ -1,9 +1,11 @@
 <?php
+namespace Apio\Login\Adapter;
 
+use Apio\Login\Adapter\LoginAdapterAbstract;
 
-
-
-class Paypal {
+class Paypal  extends LoginAdapterAbstract{
+  
+   
 }
 
 ?>

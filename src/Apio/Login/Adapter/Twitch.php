@@ -1,14 +1,11 @@
 <?php
+namespace Apio\Login\Adapter;
 
+use Apio\Login\Adapter\LoginAdapterAbstract;
 
-
-/**
- * Description of Twitch
- *
- * @author macbook
- */
-class Twitch {
-    //put your code here
+class Twitch  extends LoginAdapterAbstract{
+  
+   
 }
 
 ?>

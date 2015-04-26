@@ -1,6 +1,11 @@
 <?php
+namespace Apio\Login\Adapter;
 
-class StackExchange {
+use Apio\Login\Adapter\LoginAdapterAbstract;
+
+class StackExchange  extends LoginAdapterAbstract{
+  
+   
 }
 
 ?>

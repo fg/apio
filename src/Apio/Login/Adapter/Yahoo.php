@@ -1,8 +1,11 @@
 <?php
+namespace Apio\Login\Adapter;
 
+use Apio\Login\Adapter\LoginAdapterAbstract;
 
-
-class Yahoo {
+class Yahoo  extends LoginAdapterAbstract{
+  
+   
 }
 
 ?>

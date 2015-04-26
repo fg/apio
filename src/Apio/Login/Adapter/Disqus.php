@@ -1,14 +1,11 @@
 <?php
 
+namespace Apio\Login\Adapter;
 
+use Apio\Login\Adapter\LoginAdapterAbstract;
 
-/**
- * Description of Disqus
- *
- * @author macbook
- */
-class Disqus {
-    //put your code here
+class Disqus extends LoginAdapterAbstract {
+    
 }
 
 ?>

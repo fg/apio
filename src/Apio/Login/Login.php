@@ -1,7 +1,13 @@
-<?php 
+<?php
+
 namespace Apio\Login;
+
 use Apio\Login\LoginInterface;
-class  Login implements LoginInterface{
+
+class Login implements LoginInterface {
+
+    const VERSION = '0.0.1';
+
     public function getAccess() {
 	
     }
@@ -10,11 +16,11 @@ class  Login implements LoginInterface{
 	
     }
 
-    public function getRequestTime() {
+    public function getResponse() {
 	
     }
 
-    public function getResponse() {
+    public function getRequestTime() {
 	
     }
 
@@ -36,5 +42,6 @@ class  Login implements LoginInterface{
 
     public function setUrl($url) {
 	
-    }        const VERSION = '5.2.0';
+    }
+
 }

@@ -1,8 +1,11 @@
 <?php
+namespace Apio\Login\Adapter;
 
+use Apio\Login\Adapter\LoginAdapterAbstract;
 
-
-class SkyRock {
+class SkyRock  extends LoginAdapterAbstract{
+  
+   
 }
 
 ?>
