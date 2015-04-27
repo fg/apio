@@ -1,6 +1,6 @@
 <?php
 
-namespace Apio\Login\Response;
+namespace Apio\Oauth\Response;
 
 class ResponseInterface {
     

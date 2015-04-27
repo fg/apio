@@ -1,10 +1,10 @@
 <?php
 
-namespace Apio\Login\Adapter;
+namespace Apio\Oauth\Adapter;
 
-use Apio\Login\Exception;
-use Apio\Login\Request;
-use Apio\Login\Response;
+use Apio\Oauth\Exception;
+use Apio\Oauth\Request;
+use Apio\Oauth\Response;
 use Guzzle\Http\Client as GuzzleClient;
 abstract class LoginAdapterAbstract {
     

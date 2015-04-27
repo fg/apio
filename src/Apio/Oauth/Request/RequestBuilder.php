@@ -1,6 +1,6 @@
 <?php
 
-namespace Apio\Login\Request;
+namespace Apio\Oauth\Request;
 
 class RequestBuilder {
     

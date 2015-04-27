@@ -1,6 +1,6 @@
 <?php
 
-namespace Apio\Login\Exception;
+namespace Apio\Oauth\Exception;
 
 use \ErrorException;
 

@@ -1,7 +1,7 @@
 <?php
-namespace Apio\Login\Adapter;
+namespace Apio\Oauth\Adapter;
 
-use Apio\Login\Adapter\LoginAdapterAbstract;
+use Apio\Oauth\Adapter\LoginAdapterAbstract;
 
 class Twitch  extends LoginAdapterAbstract{
   
