@@ -12,6 +12,7 @@
     ],
      "require": {
         "php": ">=5.4.0",
-        "guzzle/guzzle": "5.2.0"
+        "guzzle/guzzle": "5.2.0",
+        "symfony/yaml" : "dev-master"
     }
 }
